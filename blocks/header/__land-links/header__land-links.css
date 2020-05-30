@@ -1,0 +1,13 @@
+.header__land-links {
+    margin-bottom: 6px;
+    
+    /*border-color: brown;
+    border-width: 1px;
+    border-style: solid;*/
+}
+
+@media screen and (max-width: 320px) {
+    .header__land-links {
+        margin-bottom: 4px;
+    }
+}

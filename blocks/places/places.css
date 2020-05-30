@@ -1,0 +1,28 @@
+.places {
+    max-width: 984px;
+    margin: 92px 148px 0;
+    display: grid;
+    grid-gap: 80px;
+
+    /*border-color: brown;
+    border-width: 1px;
+    border-style: solid;*/
+}
+
+@media screen and (max-width: 1024px) {
+    .places {
+        margin: 9vw 5vw 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places {
+        margin: 11.5vw 3.1vw 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        margin: 20vw 0 0;
+    }
+}

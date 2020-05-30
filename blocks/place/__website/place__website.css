@@ -1,0 +1,16 @@
+.place__website {
+       
+    margin-right: 28px;
+    align-self: end;
+    justify-self: start;    
+
+    /*border-color: brown;
+    border-width: 1px;
+    border-style: solid;*/
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        display: none;
+    }
+}

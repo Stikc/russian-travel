@@ -1,0 +1,32 @@
+.header__land-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 18px;
+    
+
+    /*border-color: brown;
+    border-width: 1px;
+    border-style: solid;*/
+    
+}
+
+.header__land-link:focus {
+    text-decoration: underline;
+
+}
+
+.header__land-link:hover {
+    text-decoration: underline;
+
+}
+
+@media screen and (max-width: 320px) {
+    .header__land-link {
+        font-size: 18px;
+        line-height: 24px; 
+    }
+}
