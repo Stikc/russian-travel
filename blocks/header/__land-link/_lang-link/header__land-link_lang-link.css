@@ -1,0 +1,11 @@
+.header__land-link_lang-link {
+    text-decoration: none;
+}
+
+.header__land-link_lang-link:focus {
+    text-decoration: underline;
+}
+
+.header__land-link_lang-link:hover {
+    text-decoration: underline;
+}

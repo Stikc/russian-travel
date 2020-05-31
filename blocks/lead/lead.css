@@ -4,6 +4,7 @@
 @import url(./__caption/lead__caption.css);
 
 .lead {    
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     margin: 56px 148px 0;
     max-width: 984px;
     display: flex;
@@ -17,12 +18,6 @@
 @media screen and (max-width: 1024px) {
     .lead {
         margin: 48px 48px 0;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .lead {
-        margin: 48px 0 0;
     }
 }
 

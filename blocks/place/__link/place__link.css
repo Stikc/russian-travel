@@ -1,0 +1,19 @@
+.place__link {    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+    
+    /*border-color: brown;
+    border-width: 1px;
+    border-style: solid;*/
+}
+
+@media screen and (max-width: 768px) {
+    .place__link {
+        font-size: 2.3vw;
+        line-height: 22px2.9vw;
+    }
+}

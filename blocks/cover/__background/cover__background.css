@@ -1,11 +1,10 @@
 .cover__background {
+    background-image: url(../../../images/cover-trains.jpg);
     position: absolute;
     max-width: 100%;
     width: 100%;
     min-height: 100%;
-    z-index: 1;
-    
-    
+    z-index: 1;    
      
     /*border-color: brown;
     border-style: solid;

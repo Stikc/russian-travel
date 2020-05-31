@@ -1,5 +1,4 @@
-.lead__caption {
-    font-family: Inter;
+.lead__caption {    
     font-style: normal;
     font-weight: normal;
     font-size: 10px;
@@ -13,4 +12,16 @@
     /*border-color: brown;
     border-width: 1px;
     border-style: solid;*/
+}
+
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        margin-left: 3.1vw;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        margin-left: 5vw;
+    }
 }
