@@ -1,7 +1,7 @@
 @import url(./__land-link/header__land-link.css);
 @import url(./__land-links/header__land-links.css);
 @import url(./__logo/header__logo.css);
-@import url(./__land-link/_lang-link/header__land-link_lang-link.css);
+@import url(./__lang-link/_active/header__lang-link_active.css);
 
 .header {
     display: flex;
